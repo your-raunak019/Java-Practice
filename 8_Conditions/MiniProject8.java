@@ -17,7 +17,7 @@ Write a program that:
 
 import java.util.Scanner;
 
-public class StudentReportCard {
+public class MiniProject8 {
     public static void main(String[] args) {
 
         // Use try-with-resources to automatically close the Scanner
