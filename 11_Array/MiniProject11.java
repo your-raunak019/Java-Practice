@@ -7,9 +7,9 @@ Write a program that:
 
 -> Stores at least 10 student test scores in an int array.
 -> Calculates and prints the class average, highest score, and lowest score.
--> Sorts a copy of the array (using your own bubble sort from Example 8) and prints the sorted list, without disturbing the original array's order.
--> Searches for a specific score the user provides (reuse the linear search technique from Example 5), printing whether it was found and at which original index.
--> Builds a grade-frequency table using the tally-table technique from Example 10, but bucketed into letter grades (count how many scores fall into A/B/C/D/F ranges) instead of raw digits.
+-> Sorts a copy of the array and prints the sorted list, without disturbing the original array's order.
+-> Searches for a specific score the user provides, printing whether it was found and at which original index.
+-> Builds a grade-frequency table using the tally-table technique, but bucketed into letter grades (count how many scores fall into A/B/C/D/F ranges) instead of raw digits.
 -> Uses a 2D array to store scores for 3 different subjects across the same 10 students (a 10×3 grid), and prints each student's personal average across all three subjects.
 -> Prints one complete, clearly organized report combining every result above.
 
