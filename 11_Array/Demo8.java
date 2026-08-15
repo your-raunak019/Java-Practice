@@ -16,3 +16,15 @@ public class Demo8 {
         }
     }
 }
+
+// Output:-
+
+/*
+
+0 appears 1 times
+1 appears 2 times
+3 appears 4 times
+7 appears 2 times
+9 appears 1 times
+
+*/
